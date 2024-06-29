@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768) {
+    
+    span#burg {
+        display: none;
+    }
+
+    menu {
+        display: block;
+    }
+
+    menu li {
+        display: inline-block;
+    }
+}
